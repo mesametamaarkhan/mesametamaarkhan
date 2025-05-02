@@ -60,8 +60,9 @@ I'm a **Full Stack Developer** and **Cybersecurity Enthusiast** passionate about
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesametamaarkhan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesametamaarkhan&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesametamaarkhan&show_icons=true&theme=radical&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesametamaarkhan&layout=compact&theme=radical&cache_seconds=1800)
+
 
 ---
 
