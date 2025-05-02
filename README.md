@@ -60,16 +60,16 @@ I'm a **Full Stack Developer** and **Cybersecurity Enthusiast** passionate about
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dummyusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dummyusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesametamaarkhan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesametamaarkhan&layout=compact&theme=radical)
 
 ---
 
 ## 😄 Fun Facts
 
-🔍 I like finding security flaws in my own code before anyone else does.
-🖥️ I sometimes write code just to test if an idea could work—not because it should.
-🕵️‍♂️ I love building apps almost as much as I love trying to ethically break into them.
+!🔍 I like finding security flaws in my own code before anyone else does.
+!🖥️ I sometimes write code just to test if an idea could work—not because it should.
+!🕵️‍♂️ I love building apps almost as much as I love trying to ethically break into them.
 
 ---
 
