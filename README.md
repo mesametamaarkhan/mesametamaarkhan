@@ -67,9 +67,9 @@ I'm a **Full Stack Developer** and **Cybersecurity Enthusiast** passionate about
 
 ## 😄 Fun Facts
 
-!🔍 I like finding security flaws in my own code before anyone else does.
-!🖥️ I sometimes write code just to test if an idea could work—not because it should.
-!🕵️‍♂️ I love building apps almost as much as I love trying to ethically break into them.
+- 🔍 I like finding security flaws in my own code before anyone else does.
+- 🖥️ I sometimes write code just to test if an idea could work—not because it should.
+- 🕵️‍♂️ I love building apps almost as much as I love trying to ethically break into them.
 
 ---
 
