@@ -5,7 +5,7 @@
 I build **reliable backend systems and infrastructure-focused services** with a strong emphasis on **performance, security, and correctness**.  
 My interests lie at the intersection of **backend engineering, systems programming, and ethical hacking**.
 
-I enjoy working close to the system—designing APIs, building data pipelines, and understanding how software breaks under real-world and adversarial conditions.
+I enjoy working close to the system; designing APIs, building data pipelines, and understanding how software breaks under real-world and adversarial conditions.
 
 ---
 
@@ -37,18 +37,6 @@ A backend service for managing feature rollouts and configuration across environ
 - Backend architecture
 - Configuration versioning
 - Developer tooling
-
----
-
-## 📌 Pinned Projects
-
-📍 *Check out the pinned repositories below for my main backend and systems projects.*
-
-They showcase:
-- Rust backend services
-- Database-heavy systems
-- Infrastructure-style tooling
-- Security-aware design decisions
 
 ---
 
