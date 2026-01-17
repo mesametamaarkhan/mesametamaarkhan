@@ -1,77 +1,146 @@
-# 👋 Hey there! Welcome to my GitHub
+# 👋 Hi, I’m Mesam Tammaar Khan
 
-I'm a **Full Stack Developer** and **Cybersecurity Enthusiast** passionate about building scalable web/mobile apps and diving deep into the world of penetration testing.
+🧠 **Backend Engineer** | 🔐 **Cybersecurity & Red Teaming Enthusiast**
+
+I build **reliable backend systems and infrastructure-focused services** with a strong emphasis on **performance, security, and correctness**.  
+My interests lie at the intersection of **backend engineering, systems programming, and ethical hacking**.
+
+I enjoy working close to the system—designing APIs, building data pipelines, and understanding how software breaks under real-world and adversarial conditions.
 
 ---
 
-## 🚀 Projects I'm Working On
-- 🧠 **SaaS Note-Taking App** – A productivity tool to simplify study and knowledge retention.
+## 🧩 What I’m Working On
+
+### 🔍 Log Ingestion & Analytics Pipeline
+A high-performance backend system for ingesting, processing, and querying large volumes of logs.
+
+**Tech Stack**
+- 🦀 Rust
+- ⚡ Axum
+- 🐘 PostgreSQL
+
+**Focus Areas**
+- Streaming ingestion
+- Efficient storage & indexing
+- Query performance and scalability
+
+---
+
+### 🚩 Feature Flag Platform
+A backend service for managing feature rollouts and configuration across environments.
+
+**Tech Stack**
+- 🦀 Rust
+- PostgreSQL
+
+**Focus Areas**
+- Backend architecture
+- Configuration versioning
+- Developer tooling
+
+---
+
+## 📌 Pinned Projects
+
+📍 *Check out the pinned repositories below for my main backend and systems projects.*
+
+They showcase:
+- Rust backend services
+- Database-heavy systems
+- Infrastructure-style tooling
+- Security-aware design decisions
 
 ---
 
 ## 🎯 Learning Goals
-- 📦 Mastering **Kubernetes** for container orchestration
-- 🔒 Enhancing skills in **Red Team Operations**
-- 🌐 Exploring **Next.js** and **WebSocket-based real-time apps**
-- ⚙️ Deep dive into **Malware Analysis and Reverse Engineering**
+
+### 🛠 Backend & Systems Engineering
+- Writing **production-grade Rust services**
+- Designing **scalable APIs and data pipelines**
+- Deep dive into **PostgreSQL internals & query optimization**
+- Exploring **Go** for backend and networking
+- Understanding **concurrency, memory safety, and performance trade-offs**
+
+### 🔐 Cybersecurity & Red Teaming
+- Web application penetration testing
+- Reconnaissance & enumeration workflows
+- Secure backend design & threat modeling
+- Malware analysis & reverse engineering fundamentals
+- Thinking like an attacker when designing systems
 
 ---
 
-## 🤝 Connect with Me
+## 🛠 Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mesam-tamaar-khan-624889291/) 
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:mesamtamaark@gmail.com)
+### 💻 Languages
+- Rust
+- Go
+- C / C++
+- JavaScript / TypeScript
+- SQL
 
----
+### ⚙️ Backend & Databases
+- Node.js
+- Express
+- PostgreSQL
+- MongoDB
 
-## 🛠️ Languages & Tools
+### 🌐 Frontend (when needed)
+- React
+- HTML
+- CSS
 
-**Frontend / Mobile:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
-![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=flat)
-
-**Backend / Databases:**
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white&style=flat)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=flat)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
-
-**Tools / Testing:**
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat)
-![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
-
-**Cybersecurity Stack:**
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-F47A20?logo=burpsuite&logoColor=white&style=flat)
-![Metasploit](https://img.shields.io/badge/Metasploit-3C3C3D?logo=metasploit&logoColor=white&style=flat)
-![Nmap](https://img.shields.io/badge/Nmap-004575?style=flat)
-![Netdiscover](https://img.shields.io/badge/Netdiscover-5A5A5A?style=flat)
+### 🧪 Dev & Security Tools
+- Git
+- Linux
+- Burp Suite
+- Metasploit
+- Nmap
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesametamaarkhan&show_icons=true&theme=radical&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesametamaarkhan&layout=compact&theme=radical&cache_seconds=1800)
-
-
----
-
-## 😄 Fun Facts
-
-- 🔍 I like finding security flaws in my own code before anyone else does.
-- 🖥️ I sometimes write code just to test if an idea could work—not because it should.
-- 🕵️‍♂️ I love building apps almost as much as I love trying to ethically break into them.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesametamaarkhan&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mesametamaarkhan&layout=compact&theme=radical)
 
 ---
 
-Thanks for visiting – let's build and break stuff (securely)! 🚀
+## 🚀 What I’m Open To
+
+- 🧑‍💻 **Backend Engineering Internships / Roles**
+- 🔐 **Cybersecurity / Red Teaming Internships**
+- 🦀 **Rust-focused backend or systems work**
+- 🌍 **Open-source collaboration**
+- 🧠 Projects involving **infrastructure, security, or low-level systems**
+
+If it involves **building or breaking serious systems**, I’m interested.
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 **LinkedIn**  
+  https://www.linkedin.com/in/mesam-tamaar-khan-624889291/
+
+- 📧 **Email**  
+  mailto:mesamtamaark@gmail.com
+
+- 💬 **Discord**  
+  *(add your Discord handle here)*
+
+- 🌐 **Portfolio**  
+  *(add your portfolio website here)*
+
+---
+
+## 🧠 Philosophy
+
+- I prefer **boring, reliable backend systems**
+- I care deeply about **security, performance, and failure modes**
+- I like **breaking systems to learn how to build them better**
+- Good backend engineers should **think like attackers**
+
+---
+
+🚀 *Building systems. Breaking them safely. Learning continuously.*
