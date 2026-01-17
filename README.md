@@ -120,17 +120,11 @@ If it involves **building or breaking serious systems**, I’m interested.
 
 ## 🤝 Connect With Me
 
-- 💼 **LinkedIn**  
-  https://www.linkedin.com/in/mesam-tamaar-khan-624889291/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mesam-tamaar-khan/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mesamtamaark@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mesametamaarkhan.vercel.app/)
 
-- 📧 **Email**  
-  mailto:mesamtamaark@gmail.com
-
-- 💬 **Discord**  
-  *(add your Discord handle here)*
-
-- 🌐 **Portfolio**  
-  *(add your portfolio website here)*
 
 ---
 
