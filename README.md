@@ -2,8 +2,7 @@
 
 🧠 **Backend Engineer** | 🔐 **Cybersecurity & Red Teaming Enthusiast**
 
-I build **reliable backend systems and infrastructure-focused services** with a strong emphasis on **performance, security, and correctness**.  
-My interests lie at the intersection of **backend engineering, systems programming, and ethical hacking**.
+I build **reliable backend systems and infrastructure-focused services** with a strong emphasis on **performance, security, and correctness**. My interests lie at the intersection of **backend engineering, systems programming, and ethical hacking**.
 
 I enjoy working close to the system; designing APIs, building data pipelines, and understanding how software breaks under real-world and adversarial conditions.
 
