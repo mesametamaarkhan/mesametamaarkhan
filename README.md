@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mesam Tammaar Khan
+# 👋 Hi, I’m Mesam Tamaar Khan
 
 🧠 **Backend Engineer** | 🔐 **Cybersecurity & Red Teaming Enthusiast**
 
