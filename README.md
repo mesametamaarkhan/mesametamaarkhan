@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mesam Tamaar Khan
 
-🧠 **Backend Engineer** | 🔐 **Cybersecurity & Red Teaming Enthusiast**
+🧠 **Backend Engineer** 
 
 I build **reliable backend systems and infrastructure-focused services** with a strong emphasis on **performance, security, and correctness**. My interests lie at the intersection of **backend engineering, systems programming, and ethical hacking**.
 
