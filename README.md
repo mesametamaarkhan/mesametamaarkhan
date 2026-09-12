@@ -1,127 +1,78 @@
-# 👋 Hi, I’m Mesam Tamaar Khan
+<div align="center">
 
-🧠 **Backend Engineer** 
+```
+██████╗ ███████╗ █████╗ ██╗    ████████╗██╗███╗   ███╗███████╗
+██╔══██╗██╔════╝██╔══██╗██║    ╚══██╔══╝██║████╗ ████║██╔════╝
+██████╔╝█████╗  ███████║██║       ██║   ██║██╔████╔██║█████╗
+██╔══██╗██╔══╝  ██╔══██║██║       ██║   ██║██║╚██╔╝██║██╔══╝
+██║  ██║███████╗██║  ██║███████╗  ██║   ██║██║ ╚═╝ ██║███████╗
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝  ╚═╝   ╚═╝╚═╝     ╚═╝╚══════╝
+```
 
-I build **reliable backend systems and infrastructure-focused services** with a strong emphasis on **performance, security, and correctness**. My interests lie at the intersection of **backend engineering, systems programming, and ethical hacking**.
+`root@mesam:~#` **whoami**
 
-I enjoy working close to the system; designing APIs, building data pipelines, and understanding how software breaks under real-world and adversarial conditions.
+</div>
 
----
+```yaml
+name: Mesam E Tamaar Khan
+role: Penetration Tester / Offensive Security
+status: looking for the next box to pop
+education: BS Computer Science, FAST-NUCES Islamabad
+contact:
+  email: mesamtamaark@gmail.com
+  linkedin: linkedin.com/in/mesam-tamaar-khan
+  github: github.com/mesametamaarkhan
+```
 
-## 🧩 What I’m Working On
+<div align="center">
 
-### 🔍 Log Ingestion & Analytics Pipeline
-A high-performance backend system for ingesting, processing, and querying large volumes of logs.
+### `[ recon ]`
 
-**Tech Stack**
-- 🦀 Rust
-- ⚡ Axum
-- 🐘 PostgreSQL
+</div>
 
-**Focus Areas**
-- Streaming ingestion
-- Efficient storage & indexing
-- Query performance and scalability
+```diff
++ Penetration Tested a production app end to end — auth, access control, injection
++ Rated findings NIST-aligned, mapped controls to ISO 27001
++ Ran a full attack-path assessment: recon > enum > exploit > pivot > post-exploit
++ Hardened a Linux box hard enough that I had to work to get back in
++ Also ship full-stack apps, because knowing how it's built helps break it
+```
 
----
+<div align="center">
 
-### 🚩 Feature Flag Platform
-A backend service for managing feature rollouts and configuration across environments.
+### `[ loadout ]`
 
-**Tech Stack**
-- 🦀 Rust
-- PostgreSQL
+<img src="https://skillicons.dev/icons?i=linux,py,js,ts,go,rust,react,nodejs,docker,aws,git,postgres&theme=dark" />
 
-**Focus Areas**
-- Backend architecture
-- Configuration versioning
-- Developer tooling
+`Burp Suite` · `Nessus` · `OWASP ZAP` · `Nmap` · `SQLMap` · `Metasploit` · `Wireshark` · `Hydra` · `Suricata`
 
----
+### `[ payloads ]`
 
-## 🎯 Learning Goals
+</div>
 
-### 🛠 Backend & Systems Engineering
-- Writing **production-grade Rust services**
-- Designing **scalable APIs and data pipelines**
-- Deep dive into **PostgreSQL internals & query optimization**
-- Exploring **Go** for backend and networking
-- Understanding **concurrency, memory safety, and performance trade-offs**
+```bash
+$ cat projects.log
 
-### 🔐 Cybersecurity & Red Teaming
-- Web application penetration testing
-- Reconnaissance & enumeration workflows
-- Secure backend design & threat modeling
-- Malware analysis & reverse engineering fundamentals
-- Thinking like an attacker when designing systems
+[SafeHarbor]      multi-stage offensive assessment, containerized targets
+                  recon -> enum -> exploit -> pivot -> post-exploit, full writeup
 
----
+[Linux-Hardening] SSH lockdown, firewall rules, privilege cleanup
+                  validated against common misconfig checks
 
-## 🛠 Tech Stack
+[Auto-Sentry]     multi-agent NDR — planner/detection/response agents
+                  graph pipeline, live incident dashboard (final year project)
 
-### 💻 Languages
-- Rust
-- Go
-- C / C++
-- JavaScript / TypeScript
-- SQL
+[Contapp]         contact management app, solo build, Flutter + Supabase
+                  shipped to prod, in daily use
+```
 
-### ⚙️ Backend & Databases
-- Node.js
-- Express
-- PostgreSQL
-- MongoDB
+<div align="center">
 
-### 🌐 Frontend (when needed)
-- React
-- HTML
-- CSS
+### `[ status ]`
 
-### 🧪 Dev & Security Tools
-- Git
-- Linux
-- Burp Suite
-- Metasploit
-- Nmap
+<img src="https://github-readme-stats.vercel.app/api?username=mesametamaarkhan&show_icons=true&theme=chartreuse-dark&hide_border=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mesametamaarkhan&theme=chartreuse-dark&hide_border=true" height="160"/>
 
----
+`root@mesam:~#` _exit 0_
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesametamaarkhan&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mesametamaarkhan&layout=compact&theme=radical)
-
----
-
-## 🚀 What I’m Open To
-
-- 🧑‍💻 **Backend Engineering Internships / Roles**
-- 🔐 **Cybersecurity / Red Teaming Internships**
-- 🦀 **Rust-focused backend or systems work**
-- 🌍 **Open-source collaboration**
-- 🧠 Projects involving **infrastructure, security, or low-level systems**
-
-If it involves **building or breaking serious systems**, I’m interested.
-
----
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mesam-tamaar-khan/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mesamtamaark@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mesametamaarkhan.vercel.app/)
-
-
----
-
-## 🧠 Philosophy
-
-- I prefer **boring, reliable backend systems**
-- I care deeply about **security, performance, and failure modes**
-- I like **breaking systems to learn how to build them better**
-- Good backend engineers should **think like attackers**
-
----
-
-🚀 *Building systems. Breaking them safely. Learning continuously.*
+</div>
